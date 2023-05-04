@@ -20,7 +20,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/KingBoRam/mashup-todolist.git",
+  "homepage": "https://kingboram.github.io/mashup-todolist/",
   "eslintConfig": {
     "extends": [
       "react-app",
