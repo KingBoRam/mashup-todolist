@@ -3,7 +3,7 @@ import React, { useReducer, createContext, useContext, useRef } from "react";
 const initialTodos = [
   {
     id: 1,
-    text: "예시입니다. 리스트를 추가하고 삭제 해보세요!",
+    text: "예시입니다. 리스트를 추가, 삭제, 체크 해보세요!",
     done: false,
   },
 ];
